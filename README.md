@@ -4,7 +4,7 @@
 - 🎓 &nbsp; Studying Systems Analysis and Development in <a href="https://www.ead.senac.br/?gclid=Cj0KCQjw24qHBhCnARIsAPbdtlJT97-m0KE5Qm6yX0R8UCWInvvWg864zu98XqEyjfBukhWlYENNviIaAk1BEALw_wcB">SENAC EAD</a>
 - 🎓 &nbsp; Studying Bootcamp Fullstack Developer in <a href="https://digitalinnovation.one/">Santander (Digital Innovation One)</a>
 - 🎓 &nbsp; Studying Bootcamp Front-end SPA Developer in <a href="https://digitalinnovation.one/">MRV (Digital Innovation One)</a>
-- 💼 &nbsp; Working as telemarketing operator in the company <a href="http://www.brbpo.com.br/">BRBPO</a>
+- 💼 &nbsp; Working as telemarketing in the company <a href="http://www.brbpo.com.br/">BRBPO</a>
 - 🌱 &nbsp; Learning more about NodeJS and React
 #
 # Languages and tools:
