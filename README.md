@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 Conect with me:: ⤵️
+  💌 Conect with me: ⤵️
 </p>
 <p align="left">
   
