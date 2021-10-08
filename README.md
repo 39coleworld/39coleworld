@@ -3,7 +3,7 @@
 ## Hi, i am Vinicius, i'm a technology student and I live in São Paulo Brazil 👋
 # About me:
 - 🤔 &nbsp; Exploring new technologies for front-end development
-- 🎓 &nbsp; Studying Systems Analysis and Development in <a href="https://www.ead.senac.br/?gclid=Cj0KCQjw24qHBhCnARIsAPbdtlJT97-m0KE5Qm6yX0R8UCWInvvWg864zu98XqEyjfBukhWlYENNviIaAk1BEALw_wcB">SENAC EAD</a>
+- 🎓 &nbsp; Studying Systems Analysis and Development in <a href="https://www.ead.senac.br/?gclid=Cj0KCQjw24qHBhCnARIsAPbdtlJT97-m0KE5Qm6yX0R8UCWInvvWg864zu98XqEyjfBukhWlYENNviIaAk1BEALw_wcB">SENAC</a>
 - 💼 &nbsp; Working as telemarketing in the company <a href="http://www.brbpo.com.br/">BRBPO</a>
 - 🌱 &nbsp; Learning more about NodeJS and React
 #
