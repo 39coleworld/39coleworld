@@ -1,24 +1,32 @@
-## ✌🤘 Olá, meu nome é <strong>Vinicius Mendes!</strong>
 
-> Sou estudante de tecnologia, front-end developer freelancer e moro em São Paulo, Brasil.
+## Hi, i am Vinicius, i'm a technology student and I live in São Paulo Brazil 👋
 
-🔭 Atualmente estou Cursando Analise e Desenvolvimento de Sistemas em EAD <a href="https://www.ead.senac.br/?gclid=Cj0KCQjw24qHBhCnARIsAPbdtlJT97-m0KE5Qm6yX0R8UCWInvvWg864zu98XqEyjfBukhWlYENNviIaAk1BEALw_wcB">SENAC</a>, e sou sócio do <a href="https://devclub.rodolfomori.com.br/">Dev Club</a>.
+## About me:
+- 🤔 &nbsp; Exploring new technologies for front-end development
+- 🎓 &nbsp; Studying Systems Analysis and Development in <a href="https://www.ead.senac.br/?gclid=Cj0KCQjw24qHBhCnARIsAPbdtlJT97-m0KE5Qm6yX0R8UCWInvvWg864zu98XqEyjfBukhWlYENNviIaAk1BEALw_wcB">SENAC EAD</a>
+- 🎓 &nbsp; Studying for Fullstack Developer in <a href="https://devclub.rodolfomori.com.br/">Dev Club</a>
+- 💼 &nbsp; Working as telemarketing in the company <a href="http://www.brbpo.com.br/">BRBPO</a>
+- 🌱 &nbsp; Learning more about NodeJS and React
 
-## 🚀 Minhas Skills
+<h3> :rocket: &nbsp;My Skills </h3>
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+**Applications and Data**
+ 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
-----
+**DevOps**
 
-## 💬 Conecte-se comigo
-<code><a href="https://www.instagram.com/39_coleworld/">
-<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;"></code>
-<code><a href="https://www.linkedin.com/in/vinicius-mendes-2785a0206/">
-<img align="left" alt="LinkedIn" width="22px" src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;"></code>
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-----
+**Development Tools**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<h3> :earth_americas: &nbsp;connect with me: </h3>
