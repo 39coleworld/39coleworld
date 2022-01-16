@@ -1,5 +1,5 @@
 
-## Hi, i am Vinicius, i'm a technology student and I live in São Paulo Brazil 👋
+## Hi, i am Vinicius, i'm a front-end developer and I live in São Paulo Brazil 👋
 
 ## About me:
 - 🤔 &nbsp; Exploring new technologies for front-end development
