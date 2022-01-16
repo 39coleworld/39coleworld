@@ -7,6 +7,7 @@
 - 🎓 &nbsp; Studying for Fullstack Developer in <a href="https://devclub.rodolfomori.com.br/">Dev Club</a>
 - 💼 &nbsp; Working as telemarketing in the company <a href="http://www.brbpo.com.br/">BRBPO</a>
 - 🌱 &nbsp; Learning more about NodeJS and React
+<br/>
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
