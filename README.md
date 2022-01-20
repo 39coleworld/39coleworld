@@ -13,9 +13,9 @@
 
 **Applications and Data**
  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 **DevOps**
@@ -30,8 +30,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;connect with me: </h3>
+<h3> :earth_americas: &nbsp;Connect with me: </h3>
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-ViniciusMendes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/vinicius-mendes-2785a0206/)
-[![Gmail Badge](https://img.shields.io/badge/-smallville2001.ke@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smallville2001.ke@gmail.com)](mailto:https://mail.google.com/mail/u/0/#inbox)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/39coleworld?label=follow&style=social)](LINK-DO-SEU-GITHUB)
